@@ -25,6 +25,8 @@ the ration we calculated is mapped to corresponding pixels on the frame<br>
 ## sample:
 <br><br>
 ![gaze_detection_2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/089710dd-08cb-4f18-b06e-deb3d270c46c)
+<br><br>
+Note: due to the low qualtiy of my webcam the readings of the white pixels are not that accurate
 
 
 
